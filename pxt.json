@@ -1,0 +1,15 @@
+{
+    "name": "Mp3语音播放模块",
+    "version": "0.1.6",
+    "description": "Mp3语音播放模块扩展库汉化版",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/dfplayermini-strings.json"
+    ],
+    "public": true
+}
